@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+/*Informações para reset (Alguns browsers tem alguns dados globais padrão*/
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  background-color: grey;
+  color: whitesmoke;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 10px;
+}
+a{
+  text-decoration: none;
+}
